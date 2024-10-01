@@ -1,0 +1,27 @@
+nombre y apellido: solo letras
+warn: solo se permiten letras
+
+email: que cumpla un formato valido como nombre@dominio.com, como cualquier mail basicamente.
+validacion dicional: que no tenga espacios.
+
+telefono: aceptar solo numeros. entre 8 y 15 digitos.
+
+dni: exactamente 8 numeros. 
+
+legajo: exatamente 4 numeros.
+
+tipo: Validar que el usuario elija una opción, es decir, no permitir un valor vacío o no seleccionado.
+
+localidad: Similar a nombre y apellido, solo permitir letras, espacios
+
+Domicilio:
+Restricción de caracteres: Aceptar letras, números, espacios
+
+Botón Enviar:
+Validación antes de enviar: Asegurarse de que todos los campos obligatorios están completos y que las validaciones de formato se han pasado.
+Puedes desactivar el botón hasta que se cumplan todas las validaciones
+
+necesito que si el usuario no cumplio alguno de estos requisitos, se resalte el casillero en rojo y aparezca un mensaje debajo del campo que indique que es invalido y que debe de completarlo bien. 
+
+En casos como el dni, el usuario en el campo solo puede escribir 8 numeros, si intenta ingresar mas no podra, lo mismo con legajo y campoos que tengan limite de cantidad de caracteres.
+

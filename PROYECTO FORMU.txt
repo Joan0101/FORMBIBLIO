@@ -1,0 +1,42 @@
+TAREAS PENDIENTES
+
+1- Crear una sesion para que el usuario solo pueda realizar el formulario 1 vez
+
+2- 
+
+
+FUNCIONAMIENTO:
+
+1-El usuario realiza el formulario.
+2-Acude a biblioteca o se contacta para que los encargados del area puedan
+corroborar y validar que los datos ingresados sean acordes (por ej: foto de perfil)
+
+[En caso de que la foto de perfil no sea valida, el usuario podra tomarse una en biblioteca y luego de ser editada o recortada, podra importarse en el sistema nuevamente || O BIEN, podra tomarse una foto con su celular en un fondo blanco mientras completa el formulario nuevamente (una vez dado de baja) Y ahi mismo, el encargado puede aprobar la solicitud]
+
+3-Los encargados podran generar un carnet con los datos del usuario en un apartado que muestra todos los usuarios pendientes de su carnet, donde tambien en el mismo podran filtrar por nombre, dni y otros datos. Tambien podran editar y dar de baja solicitudes.
+
+El programa generaria un ejemplar que luego, podra ser exportado como jpg u otro formato=
+para su proxima 
+
+
+
+
+El formulario - > 
+Guarda en la base de datos
+
+
+=
+formulario - usuario informacion
+
+cliente - biblioteca administracion
+
+proceso de solicitud de carnet:
+
+usuario > biblioteca
+biblioteca valida foto y etc
+
+1- todo esta bien: biblioteca aprueba solicitud (boton generacion de ejemplar jpg u otro formato PARA imprimir :> se da por aprobada solicitud)
+
+2- algo esta mal- se puede dar de baja solicitud para que el usuario la realice en el acto e incluso (*si el problema fue la foto) se tome una foto ahi mismo 
+
+foto al cliente > biblioteca aprobacion
